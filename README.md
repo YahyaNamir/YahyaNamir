@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyanamir&label=Profile%20views&color=0e75b6&style=flat" alt="yahyanamir" /> </p>
 
-- 🔭 I’m currently working on **MyPortfolio**
+- 🔭 Here's my **MyPortfolio** [yahyanamir.netlify.app]
   
 - 🌱 I’m currently learning **REACT JS / LARAVEL**
 
