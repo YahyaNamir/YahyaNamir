@@ -22,7 +22,7 @@
   <a href="https://linkedin.com/in//yahya-namir" rel="noopener noreferrer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yahyanamir" height="30" width="40" /></a>
 <a href="https://codepen.io/namiryahya"  rel="noopener noreferrer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="namiryahya" height="30" width="40" /></a>
 <a href="https://twitter.com/yahyanamir"  rel="noopener noreferrer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yahyanamir" height="30" width="40" /></a>
-<a href="https://instagram.com/yehya_namir" rel="noopener noreferrer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yeehyaa_01" height="30" width="40" /></a>
+<a href="https://instagram.com/yeehyaa_01" rel="noopener noreferrer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yeehyaa_01" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
